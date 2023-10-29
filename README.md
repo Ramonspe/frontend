@@ -1,2 +1,3 @@
-# frontend
-Trabalho desenvolvido para a disciplina de FrontEnd no Instituto Mauá de Tecnologia.
+# Autoria
+Nome: Ramon Santos Pereira
+RA: 22.00049-6
